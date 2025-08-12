@@ -26,7 +26,7 @@ plt.ylabel('Loss')
 plt.grid(True)
 plt.show()
 
-#Output:
+#Output Screenshot(with code):
 <img width="1514" height="617" alt="dl1" src="https://github.com/user-attachments/assets/8d1cf3e8-6e67-4051-ad65-8299f8d8d25f" />
 <img width="1492" height="637" alt="dl2" src="https://github.com/user-attachments/assets/0239e2d4-52cc-4ab5-8974-6677b09f7e97" />
 
