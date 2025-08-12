@@ -21,5 +21,5 @@ plt.plot(x_values, y_values)
 plt.title('Perceptron Decision Boundary for XOR')
 plt.show()
 
-#Output:
+#Output screenshot(with code):
 <img width="739" height="662" alt="dl3" src="https://github.com/user-attachments/assets/35060446-0396-4fc1-b27d-1ef807f9051d" />
